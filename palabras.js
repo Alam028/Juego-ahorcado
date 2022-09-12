@@ -1,0 +1,1 @@
+const words = ['Gato','Perro','Perico','Carne','Martillo', 'Lavadora','Sucio','Plankton','Lento','Comida','Delgado','Gamecube','Albondiga','Cucaracha','Abajo','Bonito','Sol','Beber','Botella','Hamburguesa','Invierno','Nintendo','Mario'];
